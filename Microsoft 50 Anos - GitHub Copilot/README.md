@@ -1,5 +1,12 @@
 # Validador de Bandeira de Cartão
 
+<div flex="row" display="flex">
+  <img src="https://w7.pngwing.com/pngs/49/82/png-transparent-credit-card-visa-logo-mastercard-bank-mastercard-blue-text-rectangle.png" alt="Visa" width="150" style="margin-left: 20px;">
+  <img src="https://logodownload.org/wp-content/uploads/2014/07/mastercard-logo-1.png" alt="Visa" width="150">
+  <img src="https://logopng.com.br/logos/elo-30.png" alt="Visa" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/American_Express_logo_%282018%29.svg/960px-American_Express_logo_%282018%29.svg.png" alt="Visa" width="150">
+  
+</div>
 Este projeto foi desenvolvido como parte do desafio do Bootcamp da DIO em parceria com a Microsoft, utilizando o GitHub Copilot para auxiliar na implementação.
 
 ## Descrição
@@ -10,7 +17,6 @@ O objetivo deste projeto é identificar a bandeira de um cartão de crédito com
 - Mastercard
 - Elo
 - American Express
-- Bandeira desconhecida (caso não corresponda a nenhuma das anteriores)
 
 ## Como funciona
 
