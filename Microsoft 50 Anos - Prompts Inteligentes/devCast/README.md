@@ -64,7 +64,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspDavid Souza<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/Dvd-coder-art">
+        href="https://github.com/DavidSouzaxz">
         GitHub
     </a>
     &nbsp;|&nbsp;
