@@ -1,0 +1,14 @@
+# Binários
+/bin/
+/target/
+
+
+# IDEs
+.vscode/
+*.iml
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.sln
